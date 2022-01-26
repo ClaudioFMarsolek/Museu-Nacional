@@ -1,0 +1,32 @@
+{
+	"folders": [
+		{
+			"path": "..\\html5"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\bootstrap4"
+		},
+		{
+			"path": "..\\..\\media-queries"
+		},
+		{
+			"path": "..\\..\\projeto-bootstrap4"
+		},
+		{
+			"path": "..\\..\\finans"
+		},
+		{
+			"path": "..\\..\\projeto-inicial-spotify"
+		},
+		{
+			"path": "..\\..\\carousel"
+		},
+		{
+			"path": "..\\..\\arquivos_da_aulaJS"
+		}
+	],
+	"settings": {}
+}
